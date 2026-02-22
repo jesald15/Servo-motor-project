@@ -1,16 +1,3 @@
-QQ// ServoOverdone.ino
-//
-// Example for multiple Servo objects in a array.
-//
-// Version 1, 28 July 2021, by Koepel.
-// Version 2, 15 August 2021, by Koepel.
-//   changed timing, a little slower
-//   diagram.json has servos in reverse order (I think it is visually better)
-//   Added fourth sequence: "compass"
-//
-// Public Domain
-//
-
 #include <Servo.h>
 
 #define NUM_SERVOS 32
